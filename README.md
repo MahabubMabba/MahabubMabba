@@ -62,6 +62,8 @@ My goal is to become a **strong and independent Full-Stack Web Developer** who c
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahabubMabba&show_icons=true&hide_border=true&theme=tokyonight" height="170" />
+</p>
+<p align ="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahabubMabba&hide_border=true&theme=tokyonight" height="170" />
 </p>
 
