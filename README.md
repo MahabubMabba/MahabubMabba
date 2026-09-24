@@ -6,30 +6,31 @@
 
 ---
 
-## `$ whoami`
+## 👋 Who I Am
 
-```javascript
-const mahabub = {
-  name: "Mahabub Hasan",
-  role: "Aspiring Software Engineer",
-  location: "Bangladesh",
+Hi, I'm **Mahabub Hasan** — a *Computer Science & Technology student* from **Bangladesh** and an **Aspiring Software Engineer**.
 
-  currentlyLearning: [
-    "JavaScript",
-    "React",
-    "TypeScript",
-    "Next.js"
-  ],
+I'm currently focused on **Web Development**, especially **JavaScript, React, TypeScript, and Next.js**. I enjoy *learning how things work*, building projects, solving problems, and improving my skills through practice.
 
-  interestedIn: [
-    "Web Development",
-    "Software Engineering",
-    "Full-Stack Development"
-  ],
+> **"Learn it. Build it. Break it. Fix it. Repeat."**
 
-  goal: "Build useful software and become a professional engineer"
-};
-```
+I'm still on my journey, but my goal is simple —
+**keep learning, build meaningful projects, and become a skilled Software Engineer.**
+
+### 🚀 Currently
+
+* 🔵 **Learning:** *Next.js & Modern Web Development*
+* ⚛️ **Building:** *Projects with React*
+* 🟡 **Improving:** *JavaScript & TypeScript*
+* 🟢 **Exploring:** *Full-Stack Development*
+* 🎯 **Goal:** *Become a Professional Software Engineer*
+
+### ⚽ Beyond Coding
+
+When I'm not coding, you'll probably find me watching **football**.
+
+🇧🇷 **Brazil** • ⭐ **Neymar** • ⚪ **Real Madrid**
+
 
 ---
 
@@ -58,23 +59,32 @@ const mahabub = {
 
 ## 🧠 What I'm Doing Right Now
 
-```text
-Learning Web Development
-        ↓
-Building React Projects
-        ↓
-Understanding How Things Actually Work
-        ↓
-Learning Next.js
-        ↓
-Moving Towards Full-Stack
-```
+<div align="center">
 
-I don't want to just copy code.
+**Learning Web Development**
+↓
+**Building React Applications**
+↓
+**Understanding the Fundamentals**
+↓
+**Exploring Next.js**
+↓
+**Working Towards Full-Stack Development**
 
-**I want to understand it, build it, break it, fix it, and build it again.**
+</div>
 
 ---
+
+> **I don't want to just write code — I want to understand it.**
+>
+> *I learn by building, breaking, debugging, and improving.*
+
+### Current Focus
+
+**React** · **JavaScript** · **TypeScript** · **Next.js** · **Web Development**
+
+*Building a strong foundation today to create better software tomorrow.*
+
 
 ## 🚀 My Learning Journey
 
