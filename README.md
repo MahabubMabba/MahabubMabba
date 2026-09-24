@@ -1,58 +1,66 @@
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Mahabub%20Hasan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+the+Web+%F0%9F%9A%80;Learning+by+Building;React+%7C+JavaScript+%7C+TypeScript+%7C+Next.js"
+    alt="Typing SVG"
+  />
+</p>
+
+<div align="center">
+  ✦ ───────────────────────── ✦
+</div>
+
 ## 👋 Who I Am
 
 Hey, I'm **Mahabub Hasan** — a **Computer Science & Technology student** on a journey to become a **Full-Stack Web Developer**.
 
-I started with the basics of **Web Development**, and since then, I've been turning what I learn into projects, experiments, and real practice. I'm currently exploring **JavaScript, React, TypeScript, and Next.js** while building a strong understanding of how modern web applications actually work.
+I'm learning **JavaScript, React, TypeScript, and Next.js** while turning what I learn into projects and real practice.
 
-For me, development isn't just about *writing more code*. It's about **thinking better, solving problems, and continuously improving the way I build.**
+For me, development is about **thinking better, solving problems, and continuously improving.**
 
 > **Curious mind. Consistent learner. Always building.**
 
+
+
 ## 🧠 What I'm Doing Right Now
 
-Right now, I'm focused on **strengthening my foundation in Web Development** and turning what I learn into practical projects.
-
-<div align="center">
-  ✦ ───────────────────────── ✦
-</div>
+I'm currently focused on **strengthening my Web Development foundation** and building practical projects.
 
 ### Current Focus
 
-* 🌐 **Web Development** — Building a strong foundation in modern web technologies
-* ⚛️ **React** — Building projects and strengthening my React fundamentals
-* 🟨 **JavaScript** — Improving my core concepts and problem-solving skills
-* 🔷 **TypeScript** — Learning to write cleaner and more reliable code
-* ▲ **Next.js** — Exploring modern web application development
-* 🚀 **Full-Stack Development** — Gradually expanding my skills beyond the frontend
-
-I'm not trying to rush through technologies.
-I want to **understand the fundamentals, build consistently, learn from mistakes, and improve with every project.**
+* 🌐 **Web Development** — Strengthening my fundamentals
+* ⚛️ **React** — Building projects and improving my skills
+* 🟨 **JavaScript** — Strengthening core concepts
+* 🔷 **TypeScript** — Learning cleaner and reliable coding
+* ▲ **Next.js** — Exploring modern web development
+* 🚀 **Full-Stack Development** — Gradually moving beyond frontend
 
 > *Learning by building — one project at a time.*
 
-<div align="center">
-  ✦ ───────────────────────── ✦
-</div>
+
 
 ## 🎯 Personal Learning Goal
 
-My current goal is to become a **strong and independent Full-Stack Web Developer** with a solid understanding of how modern web applications are built.
+My goal is to become a **strong and independent Full-Stack Web Developer** who can understand, build, and solve problems independently.
 
 I'm working towards being able to:
 
-* 🧠 **Understand** concepts instead of simply memorizing them
-* 💻 **Build** real-world applications from scratch
+* 🧠 **Understand** concepts instead of memorizing them
+* 💻 **Build** real-world applications
 * 🧩 **Solve** problems independently
-* ✨ **Write** clean, maintainable code
-* 🌐 **Work** confidently across both frontend and backend
+* ✨ **Write** clean and maintainable code
+* 🌐 **Work** confidently across frontend and backend
 
 > **Learn deeply. Build consistently. Improve continuously.**
 
-I'm taking this journey **one concept, one project, and one challenge at a time.**
 
-<div align="center">
-  ✦ ───────────────────────── ✦
-</div>
 
 ## ⚡ Tech Stack
 
@@ -82,9 +90,6 @@ I'm taking this journey **one concept, one project, and one challenge at a time.
 
 > 💡 **Learning the fundamentals first, then building with them.**
 
-<div align="center">
-  ✦ ───────────────────────── ✦
-</div>
 
 ## 📚 Learning Journey
 
@@ -114,9 +119,7 @@ I'm building my skills step by step, starting from the fundamentals and graduall
 
 > *Every new concept I learn becomes another piece of the bigger picture.*
 
-<div align="center">
-  ✦ ───────────────────────── ✦
-</div>
+
 
 ## 📊 GitHub Stats
 
@@ -129,9 +132,7 @@ I'm building my skills step by step, starting from the fundamentals and graduall
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahabubMabba&theme=github-compact&hide_border=true" width="95%" />
 </p>
 
-<div align="center">
-  ✦ ───────────────────────── ✦
-</div>
+
 
 ## 📫 Connect With Me
 
@@ -151,15 +152,13 @@ I'm building my skills step by step, starting from the fundamentals and graduall
 
 I'm always open to connecting with fellow developers, learning from others, and sharing what I build.
 
-<div align="center">
-  ✦ ───────────────────────── ✦
-</div>
+
 
 ## ⚽ Beyond Coding
 
 When I'm away from the code editor, you'll probably find me watching football.
 
-I'm a passionate **Brazil 🇧🇷** fan and a big admirer of **Neymar Jr.**. I also enjoy following **Real Madrid** and keeping up with the latest in the football world.
+I'm a passionate **Brazil 🇧🇷** fan and a big admirer of **Neymar Jr.** I also enjoy following **Real Madrid** and keeping up with the latest in the football world.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Brazil-🇧🇷-009C3B?style=for-the-badge" />
@@ -168,7 +167,6 @@ I'm a passionate **Brazil 🇧🇷** fan and a big admirer of **Neymar Jr.**. I 
 </p>
 
 > *Football inspires my passion. Coding drives my curiosity.*
-
 
 <div align="center">
   ✦ ───────────────────────── ✦
@@ -180,8 +178,4 @@ I'm a passionate **Brazil 🇧🇷** fan and a big admirer of **Neymar Jr.**. I 
 
 <p align="center">
   <i>Keep learning. Keep building. Keep improving.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MahabubMabba&style=flat-square&color=blue" alt="Profile Views" />
 </p>
