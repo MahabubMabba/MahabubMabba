@@ -1,169 +1,187 @@
-# 👨‍💻 Mahabub Hasan
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=false&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Frontend+Developer+in+Progress;React+%7C+Next.js+%7C+JavaScript;Turning+Ideas+into+Code+%F0%9F%9A%80" />
-
-> **Learning → Building → Breaking → Fixing → Growing**
-
----
-
 ## 👋 Who I Am
 
-Hi, I'm **Mahabub Hasan** — a *Computer Science & Technology student* from **Bangladesh** and an **Aspiring Software Engineer**.
+Hey, I'm **Mahabub Hasan** — a **Computer Science & Technology student** on a journey to become a **Full-Stack Web Developer**.
 
-I'm currently focused on **Web Development**, especially **JavaScript, React, TypeScript, and Next.js**. I enjoy *learning how things work*, building projects, solving problems, and improving my skills through practice.
+I started with the basics of **Web Development**, and since then, I've been turning what I learn into projects, experiments, and real practice. I'm currently exploring **JavaScript, React, TypeScript, and Next.js** while building a strong understanding of how modern web applications actually work.
 
-> **"Learn it. Build it. Break it. Fix it. Repeat."**
+For me, development isn't just about *writing more code*. It's about **thinking better, solving problems, and continuously improving the way I build.**
 
-I'm still on my journey, but my goal is simple —
-**keep learning, build meaningful projects, and become a skilled Software Engineer.**
-
-### 🚀 Currently
-
-* 🔵 **Learning:** *Next.js & Modern Web Development*
-* ⚛️ **Building:** *Projects with React*
-* 🟡 **Improving:** *JavaScript & TypeScript*
-* 🟢 **Exploring:** *Full-Stack Development*
-* 🎯 **Goal:** *Become a Professional Software Engineer*
-
-### ⚽ Beyond Coding
-
-When I'm not coding, you'll probably find me watching **football**.
-
-🇧🇷 **Brazil** • ⭐ **Neymar** • ⚪ **Real Madrid**
-
-
----
-
-## ⚡ Tech Stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
-### Currently Exploring
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
----
+> **Curious mind. Consistent learner. Always building.**
 
 ## 🧠 What I'm Doing Right Now
 
+Right now, I'm focused on **strengthening my foundation in Web Development** and turning what I learn into practical projects.
+
 <div align="center">
-
-**Learning Web Development**
-↓
-**Building React Applications**
-↓
-**Understanding the Fundamentals**
-↓
-**Exploring Next.js**
-↓
-**Working Towards Full-Stack Development**
-
+  ✦ ───────────────────────── ✦
 </div>
-
----
-
-> **I don't want to just write code — I want to understand it.**
->
-> *I learn by building, breaking, debugging, and improving.*
 
 ### Current Focus
 
-**React** · **JavaScript** · **TypeScript** · **Next.js** · **Web Development**
+* 🌐 **Web Development** — Building a strong foundation in modern web technologies
+* ⚛️ **React** — Building projects and strengthening my React fundamentals
+* 🟨 **JavaScript** — Improving my core concepts and problem-solving skills
+* 🔷 **TypeScript** — Learning to write cleaner and more reliable code
+* ▲ **Next.js** — Exploring modern web application development
+* 🚀 **Full-Stack Development** — Gradually expanding my skills beyond the frontend
 
-*Building a strong foundation today to create better software tomorrow.*
+I'm not trying to rush through technologies.
+I want to **understand the fundamentals, build consistently, learn from mistakes, and improve with every project.**
 
+> *Learning by building — one project at a time.*
 
-## 🚀 My Learning Journey
+<div align="center">
+  ✦ ───────────────────────── ✦
+</div>
 
-| Stage | Focus                  |
-| ----- | ---------------------- |
-| ✅     | HTML & CSS             |
-| ✅     | Tailwind CSS           |
-| ✅     | JavaScript Basics      |
-| ✅     | React Fundamentals     |
-| 🔄    | Advanced React         |
-| 🔄    | TypeScript             |
-| 🔄    | Next.js                |
-| 🎯    | Full-Stack Development |
+## 🎯 Personal Learning Goal
 
----
+My current goal is to become a **strong and independent Full-Stack Web Developer** with a solid understanding of how modern web applications are built.
 
-## 📈 GitHub Activity
+I'm working towards being able to:
+
+* 🧠 **Understand** concepts instead of simply memorizing them
+* 💻 **Build** real-world applications from scratch
+* 🧩 **Solve** problems independently
+* ✨ **Write** clean, maintainable code
+* 🌐 **Work** confidently across both frontend and backend
+
+> **Learn deeply. Build consistently. Improve continuously.**
+
+I'm taking this journey **one concept, one project, and one challenge at a time.**
+
+<div align="center">
+  ✦ ───────────────────────── ✦
+</div>
+
+## ⚡ Tech Stack
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+</p>
+
+### 🔷 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+</p>
+
+### 🌱 Exploring Next
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+> 💡 **Learning the fundamentals first, then building with them.**
+
+<div align="center">
+  ✦ ───────────────────────── ✦
+</div>
+
+## 📚 Learning Journey
+
+I'm building my skills step by step, starting from the fundamentals and gradually moving towards full-stack development.
+
+### ✅ Completed
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+</p>
+
+### 🔄 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs" />
+</p>
+
+### 🌱 Next Step
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🎯 Direction
+
+**Full-Stack Web Development**
+
+> *Every new concept I learn becomes another piece of the bigger picture.*
+
+<div align="center">
+  ✦ ───────────────────────── ✦
+</div>
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahabubMabba&show_icons=true&hide_border=true&theme=github_dark" height="170" />
   <img src="https://streak-stats.demolab.com?user=MahabubMabba&hide_border=true&theme=github-dark" height="170" />
 </p>
 
----
-
-## 🐍 Contribution Graph
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MahabubMabba/MahabubMabba/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahabubMabba&theme=github-compact&hide_border=true" width="95%" />
 </p>
 
----
+<div align="center">
+  ✦ ───────────────────────── ✦
+</div>
 
-## 🎯 2026 Goals
-
-* [ ] Become confident with JavaScript
-* [ ] Build more real-world React projects
-* [ ] Become comfortable with TypeScript
-* [ ] Learn Next.js properly
-* [ ] Build full-stack applications
-* [ ] Create a strong developer portfolio
-* [ ] Start working with real-world projects
-
----
-
-## ⚽ Beyond Code
-
-When I'm not coding...
-
-**Football is probably involved.**
-
-Brazil 🇧🇷 • Neymar • Real Madrid
-
----
-
-## 📬 Let's Connect
+## 📫 Connect With Me
 
 <p align="left">
   <a href="https://github.com/MahabubMabba">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/Mahabub.Hasan.Mabba">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/hasan_mabba/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" />
   </a>
 </p>
 
----
+I'm always open to connecting with fellow developers, learning from others, and sharing what I build.
+
+<div align="center">
+  ✦ ───────────────────────── ✦
+</div>
+
+## ⚽ Beyond Coding
+
+When I'm away from the code editor, you'll probably find me watching football.
+
+I'm a passionate **Brazil 🇧🇷** fan and a big admirer of **Neymar Jr.**. I also enjoy following **Real Madrid** and keeping up with the latest in the football world.
 
 <p align="center">
-  <b>Code is not about knowing everything.</b><br>
-  It's about being willing to learn what's next.
+  <img src="https://img.shields.io/badge/Brazil-🇧🇷-009C3B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Neymar%20Jr.-⭐-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Real%20Madrid-⚽-FFFFFF?style=for-the-badge&logo=realmadrid&logoColor=000000" />
+</p>
+
+> *Football inspires my passion. Coding drives my curiosity.*
+
+
+<div align="center">
+  ✦ ───────────────────────── ✦
+</div>
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile.</i> 👋
+  <i>Keep learning. Keep building. Keep improving.</i>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MahabubMabba&style=flat-square&color=blue" alt="Profile Views" />
+</p>
