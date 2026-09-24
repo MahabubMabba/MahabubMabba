@@ -61,8 +61,8 @@ My goal is to become a **strong and independent Full-Stack Web Developer** who c
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/MahabubMabba">
+<p display="center" >
+  <a none; href="https://github.com/MahabubMabba">
     <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -75,4 +75,23 @@ My goal is to become a **strong and independent Full-Stack Web Developer** who c
   </a>
 </p>
 
-I'm always open to connecting with fellow developers, learning from others, and sharing what I build.
+## ⚽ Beyond Coding
+
+When I'm away from the code editor, you'll probably find me watching football.
+
+I'm a passionate **Brazil 🇧🇷** fan and a big admirer of **Neymar Jr.**. I also enjoy following **Real Madrid** and keeping up with the latest in the football world.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Brazil-🇧🇷-009C3B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Neymar%20Jr.-⭐-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Real%20Madrid-⚽-FFFFFF?style=for-the-badge&logo=realmadrid&logoColor=000000" />
+</p>
+
+> *Football inspires my passion. Coding drives my curiosity.*
+
+<div align="center">
+  ✦ ───────────────────────── ✦
+</div>
+<p align="center"> <b>Thanks for visiting my profile!</b> </p>
+
+<p align="center"> <i>Keep learning. Keep building. Keep improving.</i> </p>
