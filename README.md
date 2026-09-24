@@ -79,7 +79,7 @@ My goal is to become a **strong and independent Full-Stack Web Developer** who c
 
 When I'm away from the code editor, you'll probably find me watching football.
 
-I'm a passionate **Brazil 🇧🇷** fan and a big admirer of **Neymar Jr.**. I also enjoy following **Real Madrid** and keeping up with the latest in the football world.
+I'm a passionate **Brazil** fan and a big admirer of **Neymar Jr.**. I also enjoy following **Real Madrid** and keeping up with the latest in the football world.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Brazil-🇧🇷-009C3B?style=for-the-badge" />
