@@ -53,37 +53,12 @@ My goal is to become a **strong and independent Full-Stack Web Developer** who c
 
 
 ## 📊 GitHub Status
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahabubMabba&theme=tokyonight"
-    width="95%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MahabubMabba&bg_color=020617&color=38BDF8&line=6366F1&point=FFFFFF&area=true&hide_border=true"
-    width="95%"
-  />
-</p>
-
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=MahabubMabba&hide_border=true&theme=tokyonight"
     height="170"
   />
 </p>
-
-<div align="center">
-  ✦ ───────────────────────── ✦
-</div>
-
-
-
-
-
-
 
 ## 📫 Connect With Me
 
@@ -100,11 +75,6 @@ My goal is to become a **strong and independent Full-Stack Web Developer** who c
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" />
   </a>
 </p>
-
-<div align="center">
-  ✦ ───────────────────────── ✦
-</div>
-
 
 I'm always open to connecting with fellow developers, learning from others, and sharing what I build.
 
