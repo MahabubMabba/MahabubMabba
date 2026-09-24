@@ -1,16 +1,10 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Mahabub%20Hasan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:172554&height=240&section=header&text=Mahabub%20Hasan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20JavaScript%20%7C%20TypeScript&descAlignY=57&descSize=17&descColor=38BDF8"
     width="100%"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+the+Web+%F0%9F%9A%80;Learning+by+Building;React+%7C+JavaScript+%7C+TypeScript+%7C+Next.js"
-    alt="Typing SVG"
-  />
-</p>
 
 <div align="center">
   ✦ ───────────────────────── ✦
@@ -61,11 +55,13 @@ My goal is to become a **strong and independent Full-Stack Web Developer** who c
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahabubMabba&show_icons=true&hide_border=true&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahabubMabba&theme=tokyonight" height="170" />
 </p>
-<p align ="center">
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahabubMabba&hide_border=true&theme=tokyonight" height="170" />
 </p>
+
 
 ## 📫 Connect With Me
 
