@@ -52,48 +52,59 @@ My goal is to become a **strong and independent Full-Stack Web Developer** who c
 </p>
 
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-### Option 1 — Stats Card
+## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahabubMabba&theme=tokyonight" height="170" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahabubMabba&theme=tokyonight"
+    width="95%"
+  />
 </p>
-
----
-
-### Option 2 — Profile Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahabubMabba&theme=tokyonight" width="95%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MahabubMabba&bg_color=020617&color=38BDF8&line=6366F1&point=FFFFFF&area=true&hide_border=true"
+    width="95%"
+  />
 </p>
-
----
-
-### Option 3 — Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahabubMabba&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="95%" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MahabubMabba&hide_border=true&theme=tokyonight"
+    height="170"
+  />
 </p>
+
+<div align="center">
+  ✦ ───────────────────────── ✦
+</div>
+
+
+
+
+
 
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/MahabubMabba" style="text-decoration: none;">
+  <a href="https://github.com/MahabubMabba">
     <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/Mahabub.Hasan.Mabba" style="text-decoration: none;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/Mahabub.Hasan.Mabba">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/hasan_mabba/" style="text-decoration: none;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/hasan_mabba/">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" />
   </a>
 </p>
+
+<div align="center">
+  ✦ ───────────────────────── ✦
+</div>
+
 
 I'm always open to connecting with fellow developers, learning from others, and sharing what I build.
 
