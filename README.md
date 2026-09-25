@@ -29,13 +29,13 @@ My goal is to become a **strong and independent Full-Stack Web Developer** who c
 🎨 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 </p>
 
 🔷 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 🛠️ Tools & Technologies
@@ -47,7 +47,7 @@ My goal is to become a **strong and independent Full-Stack Web Developer** who c
 🌱 Exploring Next
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=express,mongodb" />
 </p>
 
 
